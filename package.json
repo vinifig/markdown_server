@@ -1,0 +1,25 @@
+{
+  "name": "markdown_server",
+  "version": "1.0.0",
+  "description": "A markdown server files",
+  "main": "index.js",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "marked": "^0.3.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vinifig",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinifig/markdown_server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vinifig/markdown_server/issues"
+  },
+  "homepage": "https://github.com/vinifig/markdown_server#readme"
+}
